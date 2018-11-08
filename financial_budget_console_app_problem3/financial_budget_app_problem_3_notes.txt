@@ -1,0 +1,29 @@
+﻿Financial Budget Console App Problem #3
+
+
+
+========================================
+***COSMETIC CHANGES***
+
+- right now we are using the standard .net console to output our data
+which displays a black screen with white as the words
+
+- its not very visually appealing, so we will add an enhancemnt that will change the
+color of the words to be more cool
+
+- also we MIGHT TRY to add some unicode character art to the opening of the app for fun
+========================================
+
+
+
+========================================
+***FUNCTIONAL CHANGES***
+
+- this is the third upgrade of the first console app
+
+- this will be more of an enhancement to the application, as will we add
+a component to the app which will allow you to download your bills (using file streams) and the 
+total bi-weekly amount to a file (this kind of like storing or saving your data, BUT NOT EXACTLY)
+
+- the report will allow you to view previous bills and data for personal optional trending
+========================================

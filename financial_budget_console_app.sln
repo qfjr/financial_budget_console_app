@@ -1,0 +1,79 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "financial_budget_console_app", "financial_budget_console_app.csproj", "{EC5EB6C4-DC31-44D9-BB08-C28D804F698D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "financial_budget_console_app_problem2", "..\financial_budget_console_app_problem2\financial_budget_console_app_problem2.csproj", "{8625C2D9-2204-4AA6-B320-72A6E47C0AA0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "dictionary lesson", "dictionary lesson", "{76CB8C5B-5852-4B86-9630-2C10E0FCF837}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "how_to_add_the_values_of_dictionary_items", "..\how_to_add_the_values_of_dictionary_items\how_to_add_the_values_of_dictionary_items.csproj", "{59D73ED1-371C-44A5-ABC3-BFFA7DF7090C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dictionary_key_value_pair_class_study", "..\dictionary_key_value_pair_class_study\dictionary_key_value_pair_class_study.csproj", "{F8BF49F3-2445-475D-B705-7E85E9BC836C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "financial_budget_console_app_problem3", "financial_budget_console_app_problem3\financial_budget_console_app_problem3.csproj", "{A06592CC-6438-4681-9FE8-F49B44320874}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IO lesson", "IO lesson", "{6F837743-6C0F-402B-9AD1-45A57BFC3F47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "input_output_lesson", "..\input_output_lesson\input_output_lesson.csproj", "{2A240677-B30B-4A2E-B1E3-4DF5FC67DA18}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "70_483_Robert_Practice", "70_483_Robert_Practice", "{EFD1A82B-7048-4EF9-9155-FC8598DF6B2B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Validate application input", "Validate application input", "{9909D8F5-FB95-4ABF-B317-C6517D8DEB69}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Managing integrity", "Managing integrity", "{C6B21C75-AD8A-4AB1-9349-CDC4D450EC26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SymmetricTutorial", "..\SymmetricTutorial\SymmetricTutorial.csproj", "{98481A4C-ECB7-4016-8929-1A734A9A5C37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC5EB6C4-DC31-44D9-BB08-C28D804F698D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC5EB6C4-DC31-44D9-BB08-C28D804F698D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC5EB6C4-DC31-44D9-BB08-C28D804F698D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC5EB6C4-DC31-44D9-BB08-C28D804F698D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8625C2D9-2204-4AA6-B320-72A6E47C0AA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8625C2D9-2204-4AA6-B320-72A6E47C0AA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8625C2D9-2204-4AA6-B320-72A6E47C0AA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8625C2D9-2204-4AA6-B320-72A6E47C0AA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59D73ED1-371C-44A5-ABC3-BFFA7DF7090C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59D73ED1-371C-44A5-ABC3-BFFA7DF7090C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59D73ED1-371C-44A5-ABC3-BFFA7DF7090C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59D73ED1-371C-44A5-ABC3-BFFA7DF7090C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8BF49F3-2445-475D-B705-7E85E9BC836C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8BF49F3-2445-475D-B705-7E85E9BC836C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8BF49F3-2445-475D-B705-7E85E9BC836C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8BF49F3-2445-475D-B705-7E85E9BC836C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A06592CC-6438-4681-9FE8-F49B44320874}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A06592CC-6438-4681-9FE8-F49B44320874}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A06592CC-6438-4681-9FE8-F49B44320874}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A06592CC-6438-4681-9FE8-F49B44320874}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A240677-B30B-4A2E-B1E3-4DF5FC67DA18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A240677-B30B-4A2E-B1E3-4DF5FC67DA18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A240677-B30B-4A2E-B1E3-4DF5FC67DA18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A240677-B30B-4A2E-B1E3-4DF5FC67DA18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98481A4C-ECB7-4016-8929-1A734A9A5C37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98481A4C-ECB7-4016-8929-1A734A9A5C37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98481A4C-ECB7-4016-8929-1A734A9A5C37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98481A4C-ECB7-4016-8929-1A734A9A5C37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{59D73ED1-371C-44A5-ABC3-BFFA7DF7090C} = {76CB8C5B-5852-4B86-9630-2C10E0FCF837}
+		{F8BF49F3-2445-475D-B705-7E85E9BC836C} = {76CB8C5B-5852-4B86-9630-2C10E0FCF837}
+		{2A240677-B30B-4A2E-B1E3-4DF5FC67DA18} = {6F837743-6C0F-402B-9AD1-45A57BFC3F47}
+		{9909D8F5-FB95-4ABF-B317-C6517D8DEB69} = {EFD1A82B-7048-4EF9-9155-FC8598DF6B2B}
+		{C6B21C75-AD8A-4AB1-9349-CDC4D450EC26} = {9909D8F5-FB95-4ABF-B317-C6517D8DEB69}
+		{98481A4C-ECB7-4016-8929-1A734A9A5C37} = {C6B21C75-AD8A-4AB1-9349-CDC4D450EC26}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF17EC1B-7C22-49BD-B4A9-64EB924C2702}
+	EndGlobalSection
+EndGlobal

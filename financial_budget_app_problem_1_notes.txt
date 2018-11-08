@@ -1,0 +1,19 @@
+Financial Budget Console App Problem #1
+
+
+- this first console app allows you to enter in your bi weekly paycheck
+and then you enter in the following bills you need to pay
+
+	1. Rent
+	2. Car Note
+	3. Car Insurance
+	4. Internet Bill
+	5. Phone Bill 
+	6. Groceries
+
+
+- it then will add those up and give you back the money you have 
+for personal spending (discretionary income)
+
+- the problem solved here, is this is an app that can help you figure out
+your bi weekly budget and perform all the mathematical equations for you
